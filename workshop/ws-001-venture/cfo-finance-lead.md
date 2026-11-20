@@ -113,39 +113,17 @@ The seed round itself would be about USD 2–4M. AVCA puts the 2025 median VC de
 
 ## 4. What carries over from Ọjà Lab, and what must be new
 
-**Carries over:**
-- **Integer money and the hash-chained ledger.** These give auditable per-assessment metering and billing.
-- **Deterministic replay.** It cheaply produces evidence if a candidate or regulator challenges a result.
-- **LLM cost discipline.** Words only, caps and a template fallback mean LLM cost is under 2% of price.
-- **Habits.** USD pricing policy and an assumptions register.
-- **Offline play on low-end Android.** This lowers candidate data costs.
+**Carries over:** integer money and the hash-chained ledger (auditable per-assessment metering and billing); deterministic replay (cheap evidence if a candidate or regulator challenges a result); LLM cost discipline (words only, caps, template fallback, so LLM cost stays under 2% of price); the USD pricing policy and assumptions register; offline play on low-end Android (lower candidate data costs).
 
-**Must be new:**
-- Credit-based billing, and revenue recognition for prepaid credits.
-- Contracts that give rights to outcome data.
-- A validation budget line for every role in every country.
-- Professional-indemnity insurance at about USD 5–15k a year **[A]**.
-- An enterprise sales hire.
+**Must be new:** credit-based billing and revenue recognition for prepaid credits; contracts that give rights to outcome data; a validation budget line for every role in every country; professional-indemnity insurance at about USD 5–15k a year **[A]**; an enterprise sales hire.
 
-**Worth nothing commercially:** the SCN-005 scores. Their weights are uncalibrated.
+**Worth nothing commercially:** the SCN-005 scores, because their weights are uncalibrated.
 
 ## 5. Risks and red lines
 
-**Risks:**
-- **Price compression.** Global self-serve tools already sell at about USD 3.44 per credit.
-- **Validation fails or shows weak lift.** The ROI case then collapses.
-- **Sales cycles of 6–12 months.**
-- **FX moves.**
-- **Customer concentration.**
-- **Seed-to-Series A attrition** (see the conversion figure in section 3).
+**Risks:** price compression (global self-serve tools already sell at about USD 3.44 per credit); validation fails or shows weak lift, which collapses the ROI case; 6–12 month sales cycles; FX moves; customer concentration; seed-to-Series A attrition.
 
-**Red lines:**
-- Never charge candidates (no pay-to-apply).
-- No paid scoring before validity evidence exists.
-- No fee that rewards rejecting candidates.
-- No single client above 40% of revenue.
-- No multi-year NGN contract without USD indexation.
-- No revenue from C before a regulatory opinion.
+**Red lines:** never charge candidates (no pay-to-apply); no paid scoring before validity evidence exists; no fee that rewards rejecting candidates; no single client above 40% of revenue; no multi-year NGN contract without USD indexation; no revenue from C before a regulatory opinion.
 
 ## 6. First 90 days
 
